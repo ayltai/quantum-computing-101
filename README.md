@@ -8,12 +8,10 @@ In this repository, you can find a collection of Jupyter notebooks that show the
 
 ## Contents
 
-**[Hello, Quantum World!](https://github.com/ayltai/quantum-computing-101/blob/master/hello-quantum-world.ipynb)**
-
+### [Hello, Quantum World!](https://github.com/ayltai/quantum-computing-101/blob/master/1-hello-quantum-world.ipynb)
 Learn how to write your first quantum program.
 
-**[Hello, Quantum Gates!](https://github.com/ayltai/quantum-computing-101/blob/master/hello-quantum-gates.ipynb)**
-
+### [Hello, Quantum Gates!](https://github.com/ayltai/quantum-computing-101/blob/master/2-hello-quantum-gates.ipynb)
 Have fun with your first quantum gates.
 
 ## License
